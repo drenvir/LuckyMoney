@@ -18,7 +18,7 @@ jQuery(function($){
 	
 	$('#submit').on('click', function(){
 		var myVar = setInterval(function(){ 
-			document.getElementById("n1").innerHTML = Math.floor((Math.random() * 6));
+			document.getElementById("n1").innerHTML = Math.floor((Math.random() * 5));
 			document.getElementById("n2").innerHTML = Math.floor((Math.random() * 10));
 			document.getElementById("n3").innerHTML = Math.floor((Math.random() * 10));
 		}, 10);
