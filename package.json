@@ -1,0 +1,19 @@
+{
+    "name": "lucky-money",
+    "version": "1.0.1",
+    "description": "Lucky Money Game for HighSchool WellSpring",
+    "main": "index.html",
+    "keywords": [
+      "lucky",
+      "game"
+    ],
+    "author": "drenvir",
+    "license": "MIT",
+    "files": [
+      ""
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/drenvir/LuckyMoney.git"
+    }
+  }
